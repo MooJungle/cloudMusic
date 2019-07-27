@@ -15,8 +15,16 @@
 3、vue实现网易云音乐界面。
 4、vue-router前端路由。
 5、icon-font 图标管理。
+
+
 部分界面展示
 
+
+![Image text](https://github.com/MooJungle/cloudMusic/blob/master/static/img/发现主页.jpg)
+![Image text](https://github.com/MooJungle/cloudMusic/blob/master/static/img/我的主页.jpg)
+![Image text](https://github.com/MooJungle/cloudMusic/blob/master/static/img/排行榜.jpg)
+![Image text](https://github.com/MooJungle/cloudMusic/blob/master/static/img/歌单列表.jpg)
+![Image text](https://github.com/MooJungle/cloudMusic/blob/master/static/img/歌单广场.jpg)
 
 
 # musicplayer
